@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=antonionduarte&show_icons=true&count_private=true&theme=rose_pine" /></a>
 <a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionduarte&hide=html,c%2B%2B&count_private=true&layout=compact&theme=rose_pine" /></a>
 
-- Learning about **Distributed Systems** and **Causal Consistency** Solutions at NOVA-SST. 
+- Interested in Distributed Systems - Consensus Protocols - Overlay Networks - Network Security. 
 - Doing simple **Solidity** Freelancing.
