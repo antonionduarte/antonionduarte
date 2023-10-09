@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=antonionduarte&show_icons=true&count_private=true&theme=rose_pine" /></a>
-<a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionduarte&hide=html,c%2B%2B&count_private=true&layout=compact&theme=rose_pine" /></a>
+<a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=antonionduarte&show_icons=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" /></a>
+<a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionduarte&hide=html,c%2B%2B&count_private=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" /></a>
 
 - Interested in Distributed Systems - Consensus Protocols - Overlay Networks - Network Security. 
 - Doing simple **Solidity** Freelancing.
