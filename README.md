@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 - Interested in Distributed Systems - Consensus Protocols - Overlay Networks - Network Security. 
 - Doing simple **Solidity** Freelancing.
+- Favourite Color Scheme: Catppuccin.
