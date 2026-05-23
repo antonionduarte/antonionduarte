@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <a><img height="150" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=antonionduarte&show_icons=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" /></a>
 <a><img height="150" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antonionduarte&hide=html,c%2B%2B&count_private=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" /></a>
 
-- Currently **Software Engineer** @ **Paddle**
+- Currently **Software Engineer**
 - Interested in **Distributed System & Algorithmss** & **Programming Languages and Algorithm Design**
 - Favourite Color Palette: **Catppuccin**
